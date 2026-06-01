@@ -11,7 +11,7 @@ use App\Http\Controllers\SystemController;
 use App\Http\Controllers\QuestionController;
 use App\Http\Controllers\QuestionCodeController;
 use App\Http\Controllers\StudentController;
-use App\Http\Controllers\ExamCodeController;
+// use App\Http\Controllers\ExamCodeController;
 use App\Http\Controllers\AnswerController;
 use App\Http\Controllers\SetupController;
 use App\Http\Controllers\StaffController;
@@ -23,7 +23,7 @@ use App\Http\Controllers\BackDoorLogin;
 use App\Http\Controllers\VideoPlayBackController;
 use App\Http\Controllers\VideoLessonController;
 use App\Http\Controllers\SystemSetupController;
-use App\Http\Controllers\AboutController;
+// use App\Http\Controllers\AboutController;
 use App\Http\Controllers\FeesPrintingController;
 use Illuminate\Support\Facades\Auth;
 
